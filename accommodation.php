@@ -250,3 +250,28 @@
                 <p class="mb-3">Phone: +94-37-226-3110</p>
                 <p class="mb-4">Email:info.hotelrichwin@gmail.com</p>
                </div>
+               <div class="col-md-6">
+  <h1 class="text-white mb-4">Book Now</h1>
+  <form action="connect.php" method="post">
+    <div class="row g-3">
+
+      <div class="col-md-6">
+        <div class="form-floating">
+          <input type="text" class="form-control bg-transparent"style="color:#ffffff" id="name" placeholder="Your Name" name="name">
+          <label for="name">Your Name</label>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="form-floating">
+          <input type="text" class="form-control bg-transparent"style="color:#ffffff" id="email" placeholder="Your Email" name="mail">
+          <label for="email">Your Email</label>
+        </div>
+      </div>
+
+      <div class="col-md-12">
+        <div class="form-floating">
+          <input type="text" class="form-control bg-transparent"style="color:#ffffff" id="nic" placeholder="Your NIC" name="nic">
+          <label for="nic">Your NIC</label>
+        </div>
+      </div>
