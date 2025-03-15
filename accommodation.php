@@ -117,3 +117,19 @@
     Housekeeping
     </span>
 </div>
+<div class="rating mb-4">
+<h6 class="mb-1">Rating</h6>
+<span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+<small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+    </span>
+</div>
+<div class="d-flex ">
+    <a href="#section4" class="btn btn-warning text-white custome-bg shadow-none">Book Now</a>
+  </div>
+  </div>
+</div>
+        </div>
