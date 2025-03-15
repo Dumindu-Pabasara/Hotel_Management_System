@@ -65,7 +65,7 @@
         </div>
         </div>
         </div>
-        
+
         <!--Section hero-->
     <div class="hero-img"id="accomadationhero-img">
 <h1 class="accomadation-h1">Accomadation</h1>
@@ -91,3 +91,29 @@
         <img src="img/room1.jpg" class="card-img-top" alt="">
     <div class="card-body">
     <h5>Single</h5>
+
+    <!--<h6 class="mb-4">₹ 1,435</h6>-->
+    <div class="facilities mb-4">
+     <h6 class="mb-1">Facilities</h6>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Double Bed
+    </span>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Free Wi-Fi
+    </span>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Interconnected Room
+    </span>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Room Service
+    </span>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Study Room
+    </span>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Mineral Water
+    </span>
+    <span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+    Housekeeping
+    </span>
+</div>
