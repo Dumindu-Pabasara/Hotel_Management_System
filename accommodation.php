@@ -231,3 +231,22 @@
     </div>
    </div>
 </section>
+
+<!--Room booking-->
+
+<section id="section4">
+      <div class="container-room py-5 room-book">
+        <div class="text-center">
+          <h1 class="mb-5"style="color:#0076A3;">Book Now</h1>
+        </div>
+
+      <div class="container-book py-5">
+        <div class="container">
+          <div class="contact p-3">
+            <div class="row g-5 align-item-center">
+              <div class="col-md-6 text-white">
+                <h1 class="text-white mb-4">Online Booking From Mail</h1>
+                <h6 class="text-white mb-3">Welcome to The Richwin Hotel, Kurunegala your five-star haven in the heart of the city.</h6>
+                <p class="mb-3">Phone: +94-37-226-3110</p>
+                <p class="mb-4">Email:info.hotelrichwin@gmail.com</p>
+               </div>
