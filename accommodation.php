@@ -65,3 +65,29 @@
         </div>
         </div>
         </div>
+        
+        <!--Section hero-->
+    <div class="hero-img"id="accomadationhero-img">
+<h1 class="accomadation-h1">Accomadation</h1>
+  </div>
+          
+   
+
+
+   <!--room-->
+   <section id="section1">
+      <div class="container-gallery py-5">
+        <div class="text-center">
+          <h2 class="section-title">Richwin Hotel</h2>
+          <h1 class="mb-3"style="color:#0076A3;">Our Room</h1>
+        </div>
+</section>
+
+   <div class="container p-5"id="our-room">
+    <div class="row g-4">
+       
+        <div class="col-lg-4 col-md-6 my-3">
+        <div class="card border-0 shadow" style="max-width: 350px;margin:auto;">
+        <img src="img/room1.jpg" class="card-img-top" alt="">
+    <div class="card-body">
+    <h5>Single</h5>
