@@ -163,3 +163,27 @@
     Housekeeping
     </span>
 </div>
+<div class="rating mb-4">
+<h6 class="mb-1">Rating</h6>
+<span class="badge rounded-pill bg-light text-dark mb-3 text-wrap lh-base">
+<small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+          <small class="fa fa-star"style="color:#FFD700"></small>
+    </span>
+</div>
+<div class="d-flex ">
+    <a href="#section4" class="btn btn-warning text-white custome-bg shadow-none">Book Now</a>
+  </div>
+  </div>
+</div>
+        </div>
+
+        
+
+        <div class="col-lg-4 col-md-6 my-3">
+        <div class="card border-0 shadow" style="max-width: 350px;margin:auto;">
+        <img src="img/room3.jpg" class="card-img-top" alt="">
+    <div class="card-body">
+    <h5>Thrible</h5>
