@@ -361,3 +361,24 @@
 
         </div>
       </div>
+
+      <div class="col-lg-3 col-md-6">
+        <h4 class="text-white mb-3">Newsletter</h4>
+        <div class="position-relative mx-auto"style="max: width 400px;">
+        <input type="text" class="form-control border-primary w-100 py-3 ps-4 pe-5"placeholder="Your Email">
+        <button class="btn button py-2 position-absolute top-0 end-0 mt-2 me-2 "style="background-color:#FFD700" type="button">Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+ <div class="container">
+  <div class="copyright">
+<div class="row">
+  <div class="col-md-6 text-center">
+      <p class="text-center">&copy; 2023 JourneyToCeylon. All rights reserved.</p>
+  </div>
+</div>
+</div>
+</div>
+</div>
