@@ -275,3 +275,52 @@
           <label for="nic">Your NIC</label>
         </div>
       </div>
+      <div class="col-md-6">
+        <div class="form-floating">
+          <input type="date" class="form-control bg-transparent"style="color:#ffffff" id="time" name="check_date">
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="form-floating">
+          <input type="date" class="form-control bg-transparent"style="color:#ffffff" id="time" name="check_out">
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="form-floating">
+          <select name="Room_category" id="select" class="form-select bg-transparent"style="color:#ffffff">
+            <option value="Room category"style="color:#5e6c79">Room category</option>
+            <option value="Single"style="color:#5e6c79">Single</option>
+            <option value="Double"style="color:#5e6c79">Double</option>
+            <option value="Thriple"style="color:#5e6c79">Thriple</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="form-floating">
+          <input type="text" class="form-control bg-transparent"style="color:#ffffff" id="phone" placeholder="Phone Number" name="phone">
+          <label for="phone">Phone Number</label>
+        </div>
+      </div>
+
+      <div class="col-12">
+        <div class="form-floating">
+          <textarea class="form-control bg-transparent"style="color:#ffffff" placeholder="Write your message here" id="message" style="height:100px" name="message"></textarea>
+          <label for="message">Write your message here</label>
+        </div>
+      </div>
+
+      <div class="col-12">
+        <button class="btn btn-outline-light w-100 py-3" type="submit">Submit Now</button>
+      </div>
+
+    </div>
+  </form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
