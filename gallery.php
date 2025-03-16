@@ -64,3 +64,48 @@
           <h2 class="section-title">Richwin Hotel</h2>
           <h1 class="section-title1 mb-3">Stunning Images Gallery</h1>
         </div>
+
+        <!--Gallery-->
+<div class="gallery">
+  <a href="img/image1.jpg"data-lightbox="roadtrip" data-title="First Image">
+  <img src="img/image1.jpg" alt=""/>
+</a>
+
+<a href="img/image3.jpg"data-lightbox="roadtrip" data-title="Second Image">
+  <img src="img/image3.jpg" alt=""/>
+</a>
+
+<a href="img/image8.jpg"data-lightbox="roadtrip" data-title="Thired Image">
+  <img src="img/image8.jpg" alt=""/>
+</a>
+
+<a href="img/image11.jpg"data-lightbox="roadtrip" data-title="Four Image">
+  <img src="img/image11.jpg" alt=""/>
+</a>
+
+<a href="img/image2.jpg"data-lightbox="roadtrip" data-title="Five Image">
+  <img src="img/image2.jpg" alt=""/>
+</a>
+
+<a href="img/tabel3.jpg"data-lightbox="roadtrip" data-title="Six Image">
+  <img src="img/tabel3.jpg" alt=""/>
+</a>
+
+<a href="img/galleryhero.jpg"data-lightbox="roadtrip" data-title="Seven Image">
+  <img src="img/galleryhero.jpg" alt=""/>
+</a>
+
+<a href="img/hcard1.jpg"data-lightbox="roadtrip" data-title="Eight Image">
+  <img src="img/hcard1.jpg" alt=""/>
+</a>
+
+<a href="img/service.jpg"data-lightbox="roadtrip" data-title="Nain Image">
+  <img src="img/service.jpg" alt=""/>
+</a>
+
+<a href="img/hcard2.jpg"data-lightbox="roadtrip" data-title="Ten Image">
+  <img src="img/hcard2.jpg" alt=""/>
+</a>
+
+</div>
+</div>
