@@ -51,3 +51,16 @@
         </div>
         </div>
         </div>
+        <!--Section hero-->
+    <div class="hero-img"id="contact-img">
+<h1 class="contact-h1">Contact Us</h1>
+  </div>
+
+
+  <section id="section1">
+      <div class="container-gallery py-5">
+        <div class="text-center">
+          <h2 class="section-title">Richwin Hotel</h2>
+          <h1 class="mb-3"style="color:#0076A3;">Write Us Your Message</h1>
+        </div>
+</section>
