@@ -64,3 +64,25 @@
           <h1 class="mb-3"style="color:#0076A3;">Write Us Your Message</h1>
         </div>
 </section>
+<!--contact form-->
+<section class="contact-form">
+        <div class="contactForm">
+        <form action="contact_conn.php" method="post">
+         <h1 class="sub-heading">Contact Us</h1>
+         <p class="detail detail2">Please write us your message to info.hotelrichwin@gmail.com</p>
+         <input type="text" class="input" placeholder="your name" name="name">
+         <input type="text" class="input" placeholder="your email" name ="mail">
+         <input type="text" class="input" placeholder="your Subject" name = "sub">
+         <input type="submit" class="input submit" value="Send Message">
+         
+        
+
+        </form>
+
+        <div class="map-container">
+            <div class="mapBg"></div>
+            <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1861.2317654021276!2d80.36906719006845!3d7.551048663738403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3379ad3b2579b%3A0x1a61ca90fe850a7e!2sRichwin%20Hotel!5e0!3m2!1sen!2slk!4v1702315832681!5m2!1sen!2slk" width="100%" height="600" style="border: 2px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+            </div>
+        </div>
+    </div>
