@@ -86,3 +86,30 @@
             </div>
         </div>
     </div>
+
+    <div class="contactMethod">
+        <div class="method">
+            <i class="fa-solid fa-location-dot contactIcon"></i>
+            <article class="text">
+                <h1 class="sub-heading">Location</h1>
+                <p class="detail">Hadirawalana ,Ihalagama, Thuriliyagama 60570</p>
+            </article>
+        </div>
+
+        <div class="method">
+            <i class="fa-solid fa-envelope contactIcon"></i>
+            <article class="text">
+                <h1 class="sub-heading">Email</h1>
+                <p class="detail">info.hotelrichwin@gmail.com</p>
+            </article>
+        </div>
+
+        <div class="method">
+            <i class="fa-solid fa-phone contactIcon"></i>
+            <article class="text">
+                <h1 class="sub-heading">Phone</h1>
+                <p class="detail">+94-37-226-3110</p>
+            </article>
+        </div>
+    </div>
+   </section>
