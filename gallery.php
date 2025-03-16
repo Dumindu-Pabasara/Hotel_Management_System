@@ -51,3 +51,16 @@
         </div>
         </div>
         </div>
+
+        <!--Section hero-->
+    <section class="hero-img1">
+    <h1 class="gallery-h1">Gallery</h1>
+</section>
+
+  
+<section id="section1">
+      <div class="container-gallery py-5">
+        <div class="text-center">
+          <h2 class="section-title">Richwin Hotel</h2>
+          <h1 class="section-title1 mb-3">Stunning Images Gallery</h1>
+        </div>
