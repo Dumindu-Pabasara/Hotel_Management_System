@@ -65,3 +65,27 @@ $conn->close();
 
 }
 */
+
+$name = $_POST['name'];
+$mail = $_POST['mail'];
+$nic = $_POST['nic'];
+$check_date = $_POST['check_date'];
+$out_date = $_POST['check_out'];
+$Room_category = $_POST['Room_category'];
+$phone = $_POST['phone'];
+
+$conn = new mysqli('localhost', 'root', '', 'richwin');
+
+if ($conn->connect_error) {
+  die('Connection Failed: ' . $conn->connect_error);
+} else {
+  $stmt = $conn->prepare("INSERT INTO web (Name, Room_type, Email, NIC, Check_in, Check_out, Phone) 
+    VALUES (?, ?, ?, ?, ?, ?, ?)");
+  $stmt->bind_param("ssssiii", $name, $Room_category, $mail, $nic, $check_date, $out_date, $phone);
+  $stmt->execute();
+  echo "Booking Successfully...";
+  $stmt->close();
+  $conn->close();
+}
+
+?>
