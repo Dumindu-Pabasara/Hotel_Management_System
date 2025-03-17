@@ -75,3 +75,23 @@
         </div>
         </div>
         </div>
+
+        <!--Hero Section-->
+
+      <!--First Carousel start-->
+      <div id="carouselExample1" class=" carousel slide  d-block d-lg-flex" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/home3.jpg" class="d-block w-100"id="carousel-img" style="background-position: center; background-size: cover; height: 100vh;" alt="">
+      <div class="carousel-caption carousel-caption-overlay"id="animatedOverlay">
+        <h1 class="carousel-h1">Welcome to Richwin Hotel</h1>
+        <p class="text-p">We offers you the best modern facilities with blennded with hospitality</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="img/home2.jpg" class="d-block w-100"id="carousel-img" style="background-position: center; background-size: cover; height: 100vh;" alt="">
+      <div class="carousel-caption carousel-caption-overlay"id="animatedOverlay">
+        <h1 class="carousel-h1">Welcome to Richwin Hotel</h1>
+        <p class="text-p">We offers you the best modern facilities with blennded with hospitality</p>
+      </div>
+    </div>
