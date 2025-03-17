@@ -95,3 +95,21 @@
         <p class="text-p">We offers you the best modern facilities with blennded with hospitality</p>
       </div>
     </div>
+    <div class="carousel-item">
+      <img src="img/home1.jpg" class="d-block w-100"id="carousel-img" style="background-position: center; background-size: cover; height: 100vh;" alt="">
+      <div class="carousel-caption carousel-caption-overlay"id="animatedOverlay">
+        <h1 class="carousel-h1">Welcome to Richwin Hotel</h1>
+        <p class="text-p">We offers you the best modern facilities with blennded with hospitality</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExample1" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExample1" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+ </div>
