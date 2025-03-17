@@ -32,3 +32,21 @@
         }
       });
     }); */
+
+    document.addEventListener("DOMContentLoaded", function() {
+      var animatedImage = document.getElementById("animatedImage");
+
+      window.addEventListener("scroll", function() {
+        var scrollPosition = window.scrollY;
+        var windowHeight = window.innerHeight;
+        var imagePosition = animatedImage.offsetTop;
+
+        if (scrollPosition > imagePosition - windowHeight / 2) {
+          animatedImage.style.opacity = 1;
+          animatedImage.style.transform = "translateY(0)";
+        }
+      });
+    });
+     </script>
+</head>
+<body>  
