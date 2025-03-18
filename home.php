@@ -177,3 +177,40 @@
 			</div>
 		</div>
 	</div>
+
+  <!--Footer section-->
+
+<div class="container-fluid bg-dark text-light footer pt-5 mt-5" id="footer">
+  <div class="conteiner py-5">
+    <div class="row g-3">
+      <div class="col-lg-3 col-md-6">
+        <h4 class="text-white mb-3"> Company</h4>
+        <a href="" class="btn btn-link"> About Us</a>
+        <a href="" class="btn btn-link"> Contact Us</a>
+        <a href="" class="btn btn-link"> Privacy Policy</a>
+        <a href="" class="btn btn-link"> Terms & Condition</a>
+        <a href="" class="btn btn-link"> FAQ</a>
+      </div>
+
+      <div class="col-lg-3 col-md-6">
+        <h4 class="text-white mb-3">Contact</h4>
+        <p class="mb-2"><i class="fa fa-map-marked-alt me-3"></i>Hadirawalana ,Ihalagama, Thuriliyagama 60570</p>
+        <p class="mb-2"><i class="fa-solid fa-phone-volume me-3"></i>+94-37-226-3110</p> 
+        <p class="mb-2"><i class="fa-solid fa-envelope-open me-3"></i>info.hotelrichwin@gmail.com</p>
+        
+        <div class="d-flex pt-2">
+          <a href=""class="btn btn-outline-light btn-social">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="https://www.facebook.com/p/Richwin-Hotel-kurunegala-100054352085094/"class="btn btn-outline-light btn-social">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://www.youtube.com/watch?v=tBNsjCr2nrE"class="btn btn-outline-light btn-social">
+            <i class="fab fa-youtube"></i>
+          </a>
+          <a href=""class="btn btn-outline-light btn-social">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+
+        </div>
+      </div>
