@@ -113,3 +113,30 @@
   </a>
 </div>
  </div>
+
+ <!--About us-->
+ <div class="container-xxl1">
+      <div class="container p-5">
+      <div class="row g-5">
+      <div class="col-lg-6" style="min-height:400px;">
+        <div class="position-relative h-100">
+          <img src="img/logo1.png"alt="" id="animatedImage"style="object-fit: cover;" class="img-fluid position-absolute w-100 h-100 ">
+        </div>
+      </div>
+      <div class="col-lg-6">
+      <h1 class="mb-4"style="color:#0076A3;">About Us </h1>
+      <p class="mb-4"id="about-p"style="text-align:justify">We offers you the best modern facilities with blennded with hospitality.
+      Hotel Richwin in Kurunegala has a restaurant and pool. The rooms come with a garden view.
+      With a private bathroom, rooms at richwin also provide guests with a city view.
+      Our hotel richwin is located in the mawanella town.</p>
+ 
+      <div class="row gy-2 gx-4 mb-4">
+      <div class="col-sm-6">
+        <a href="" class="btn button py-1 px-5 mt-2"style="background-color:#FFD700;">Read More</a>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
