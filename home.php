@@ -140,3 +140,40 @@
       </div>
       </div>
       </div>
+
+      <!--card animated-->
+       
+     <div class="wrapper p-3">
+		<div class="card"id="card1">
+			<img src="img/hcard2.jpg" alt="">
+			<div class="info">
+				<h1>Accommodation</h1>
+				<p>The hotel accommodation formbusiness and leisure...</p>
+				<a href="accommodation.php" class="btn">Read More</a>
+			</div>
+		</div>
+		<div class="card"id="card1">
+			<img src="img/image6.jpg" alt="">
+			<div class="info">
+				<h1>Weddings</h1>
+				<p>Weddings & celebration-celibrate life's events in style & elegance...</p>
+				<a href="weddings.php" class="btn">Read More</a>
+			</div>
+		</div>
+		<div class="card"id="card1">
+			<img src="img/hcard1.jpg" alt="">
+			<div class="info">
+				<h1>Gallery</h1>
+				<p>Let the stunning images in our gallery captivate</p>
+				<a href="gallery.php" class="btn">Read More</a>
+			</div>
+		</div>
+		<div class="card"id="card1">
+			<img src="img/image2.jpg" alt="">
+			<div class="info">
+				<h1>service</h1>
+				<p>Beautiful  restaurant, famed wines and spirits at the bar, spa,pools.</p>
+				<a href="service.php" class="btn">Read More</a>
+			</div>
+		</div>
+	</div>
