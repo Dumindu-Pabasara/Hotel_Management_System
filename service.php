@@ -72,3 +72,26 @@ Our on-call doctor is available for any medical emergency.</p>
         </div>
 </div>
 </section>
+
+<!--card animated-->
+       
+<div class="wrapper p-3">
+		<div class="card"id="card1">
+			<img src="img/resturent.jpg" alt="">
+			<div class="info">
+				<h1>Resturent</h1>
+			</div>
+		</div>
+		<div class="card"id="card1">
+			<img src="img/pool.jpg" alt="">
+			<div class="info">
+				<h1>Pool</h1>
+			</div>
+		</div>
+		<div class="card"id="card1">
+			<img src="img/hcard1.jpg" alt="">
+			<div class="info">
+				<h1>The Bar</h1>
+			</div>
+            </div>
+	</div>
