@@ -22,3 +22,30 @@
     <link rel="stylesheet" href="css/style1.css">
     <!--script.js file link -->
 </head>
+
+<body>
+
+ <!--Main Navbar-->
+ <div class="container-fluid position-relative p-0">
+     <div class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0" id="navbar">
+     <a class="navbar-brand" href="#">
+                <img src="img/logo.png" alt="Logo" width="80" height="80" class="d-inline-block hotel align-bottem ">
+                Richwin Hotel
+            </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse"data-target="#navbarcollapse"
+      aria-controls="#navbarcollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa fa-bars"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end"id="navbarcollapse">
+        <div class="navbar-nav justify-content-end ms-auto py-0">
+          <a href="home.php"class="nav-item nav-link font-weight-bold active">Home</a>
+          <a href="accommodation.php"class="nav-item nav-link font-weight-bold">Accommodation</a>
+          <a href="weddings.php"class="nav-item nav-link font-weight-bold">Weddings</a>
+          <a href="gallery.php"class="nav-item nav-link font-weight-bold">Gallery</a>
+          <a href="service.php"class="nav-item nav-link font-weight-bold">Other Service</a>
+          <a href="contact.php"class="nav-item nav-link font-weight-bold">Contact</a>
+        </div>
+        </div>
+        </div>
