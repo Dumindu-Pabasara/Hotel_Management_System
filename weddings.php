@@ -49,3 +49,50 @@
         </div>
         </div>
         </div>
+
+        <!--Section hero-->
+    <div class="hero-img1">
+    <h1 class="wedding-h1">Weddings</h1>
+    </div>
+
+            
+      <div class="container p-5">
+      <div class="row g-5">
+      <div class="col-lg-6" style="min-height:500px;">
+        <!--<div class="position-relative h-100">-->
+          <!--<img src="img/couple1.jpg"alt="" style="object-fit:scale-down;" class="img-fluid position-absolute w-100 h-100">-->
+          <div id="eventCarousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <!-- Replace these images with your actual event images -->
+                    <div class="carousel-item active position-relative h-100">
+                        <img src="img/couple.jpg" class="d-block w-100 "alt="room1"style="object-fit:scale-down;">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/couple2.jpg" class="d-block w-100" alt="room2"style="object-fit:scale-down;">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="img/image7.jpg" class="d-block w-100 "alt="room3"style="object-fit:scale-down;">
+                    </div>
+
+                </div>
+              </div>
+                </div>
+         
+   
+      <div class="col-lg-6">
+      <h1 class="mb-4"style="color:#0076A3;">Banquet Hall</h1>
+      <p class="mb-2"id="about-p"style="text-align:justify">At Richwin Hotel, we take pride in offering exquisite banquet halls that seamlessly blend sophistication with comfort, creating the perfect ambiance for your special events. Whether you're hosting a grand wedding reception,
+       a corporate gala, or an intimate celebration, our banquet halls are designed to exceed your expectations.</p>
+
+       <p class="mb-1"><i class="fa-solid fa-arrow-right me-2"></i>Weddings</p>
+       <p class="mb-1"><i class="fa-solid fa-arrow-right me-2"></i>Engagement</p>
+       <p class="mb-1"><i class="fa-solid fa-arrow-right me-2"></i>Birthday Celebration</p>   
+  
+      <div class="row gy-2 gx-4 mb-4">
+      <div class="col-sm-6">
+        <a href="" class="btn button py-1 px-5 mt-2"style="background-color:#FFD700;">Read More</a>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
