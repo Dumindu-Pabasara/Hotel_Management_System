@@ -51,3 +51,24 @@
         </div>
         </div>
         </div>
+
+        <!--Section hero-->
+    <section class="hero-img1">
+    <h1 class="service-h1">Other Service</h1>
+</section>
+
+
+<section id="section1">
+      <div class="container-gallery py-3">
+        <div class="text-center">
+          <h2 class="section-title">Richwin Hotel</h2>
+          <h1 class="mb-3"style="color:#0076A3;">Our Upcoming Facilities</h1>
+          <p class=" fs-4  mb-5 m-5 text-justify-center"id="about-p">Beautiful rooms, experienced and courteous staff, culinary delights from around the world served in our own in-house restaurant, famed wines and spirits at the bar, spa treatments and even the option of hosting your wedding at one of the elegant banquet halls are all on offer at the Hotel.
+We offer services that are of essence to a holiday.
+Our hotel is WiFi enabled, allowing you to stay connected throughout your stay.
+Use our Laundry Service to take a break from the chores of your daily life and be pampered by having your clothes taken care of.
+We offer transportation options to and from the hotel. Do speak to our helpful staff for all your travel requirements be they airport drops / picks or tours.
+Our on-call doctor is available for any medical emergency.</p>
+        </div>
+</div>
+</section>
