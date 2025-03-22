@@ -312,3 +312,18 @@ body {
    .room-book img{
       transition: 0.5s;
   }
+
+  .room-book a:hover img{
+    transform: scale(1.1);
+}
+.container-book{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../img/hcard1.jpg);
+    width: 100%;
+    height: 120vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .container-book{
+    color: #ffffff;
+  }
