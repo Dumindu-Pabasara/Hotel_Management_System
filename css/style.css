@@ -285,3 +285,30 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+/*Richwin hotel tagline*/
+.section-title{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    color: gold;
+  }
+  
+  
+  /*room*/
+  
+  
+  #animatedRoom {
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 2s ease-in-out, transform 1.5s ease-in-out;
+  }
+  .accomadation-h1 {
+     
+      font-size: 75px;
+      font-family:'DM Serif Display', serif;
+      color: #f5f5f5;
+      text-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+  }
+   .room-book img{
+      transition: 0.5s;
+  }
