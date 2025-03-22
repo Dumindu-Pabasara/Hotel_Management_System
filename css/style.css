@@ -256,3 +256,32 @@ body {
 #footer a{
     text-decoration: none;
 }
+.footer .btn.btn-link::before{
+    position: relative;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 10px;
+}
+.footer .btn.btn-link:hover{
+    letter-spacing: 1px;
+    box-shadow: none;
+}
+
+
+
+
+/*############### Accommodation page ##################*/
+
+/*Section hero*/
+.hero-img {
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../img/hcard2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
