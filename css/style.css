@@ -60,3 +60,24 @@ body {
     transition: 0.5s;
     outline: none;
 } 
+
+.carousel-caption {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 50vh;
+    text-align: center;
+  }
+.carousel-caption-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 0;
+}
+
+  /* Custom styles for text within the caption */
+  .carousel-caption h1 {
+    font-weight: bold;
+    color: #fff;
+  }
