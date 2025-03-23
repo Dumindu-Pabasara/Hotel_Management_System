@@ -18,3 +18,32 @@
   .navbar .fa-solid {
     transition: color 0.5s; /* Add transition for color change */   
   }
+  /* Additional styles for active link indicator */    
+  .navbar-light .navbar-nav.nav-link::before {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 2px;
+    bottom: -1px;
+    left: 50%;
+    background: var(--primary);
+    transition: width 0.5s, left 0.5s; /* Add transition for width and left */    
+  }
+  
+  .navbar-light .navbar-nav.nav-link:hover::before,
+  .navbar-light .navbar-nav.nav-link.nav-link.active::before {
+    width: 100%;
+    left: 0;
+    
+  }
+  .navbar-light .navbar-nav .nav-link.font-weight-bold {
+    font-family: 'Nunito',sans-serif;
+    position: relative;
+    margin-right: 25px;
+    padding: 35px 0;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.5s;
+    outline: none;
+}  
