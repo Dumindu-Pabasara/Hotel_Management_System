@@ -77,3 +77,29 @@
 .section-title1{
   color: #0076A3;
 }
+/*gallery*/
+.gallery{
+    margin: 50px 80px;
+}
+.gallery img{
+    width: 230px;
+    padding: 5px;
+}
+.gallery img:hover{
+    transform: scale(1.1);
+}
+
+/*Footer section*/
+.footer .btn.btn-social{
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--light);
+    font-weight: normal;
+    border:1px solid #f5f5f5;
+    border-radius: 35px;
+    transition:0.3s;
+}
