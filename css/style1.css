@@ -72,3 +72,32 @@
     color: #f5f5f5;
     text-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
 }
+
+/*About us*/
+
+
+
+.button{
+  color: #f5f5f5;
+}
+
+
+
+
+/*Footer section*/
+.footer .btn.btn-social{
+  margin-right: 5px;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--light);
+  font-weight: normal;
+  border:1px solid #f5f5f5;
+  border-radius: 35px;
+  transition:0.3s;
+}
+.footer .btn.btn-social:hover{
+  color: #FFD700;
+}
