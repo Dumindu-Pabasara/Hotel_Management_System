@@ -119,3 +119,25 @@
 	top: 0;
 	left: 0;
 }
+#card1 .info {
+	position: relative;
+	color: #fff;
+	z-index: 3;
+	opacity: 0;
+	transform: translateY(30px);
+	transition: 0.5s all;
+}
+#card1:hover .info {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+#card1 .info h1 {
+	line-height: 40px;
+	margin-bottom: 10px;
+}
+#card1 .info p {
+	font-size: 15px;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+}
