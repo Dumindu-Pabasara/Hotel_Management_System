@@ -60,3 +60,30 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.contact-h1 {
+    font-size: 75px;
+    font-family:'DM Serif Display', serif;
+    color: #f5f5f5;
+    text-shadow: 0px 0px 50px rgba(0, 0, 0, 0.1);
+}
+/*Richwin hotel tagline*/
+.section-title{
+    font-family: 'Beau Rivage', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    color: gold;
+}
+
+
+
+/*contact form*/
+
+:root{
+    --bodyBg:#303841;
+    --formBg:#343F4B;
+    --textColor:#fff;
+    --primaryColor:#0076A3;
+    --paraColor:#5e6c79;
+    --paraColor:#74828f;
+
+}
