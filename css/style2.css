@@ -1,0 +1,20 @@
+/*############### Gallery page ##################*/
+
+/*Navbar*/ 
+/* Additional styles for mobile navigation */ 
+@media(max-width: 991.98px) {
+    .navbar-light .navbar-toggler {
+      padding: 15px;
+    }
+    .navbar-light .navbar-toggler-icon {
+      background-color: #86b817;
+    }
+    .navbar-light .navbar-collapse {
+      padding: 15px;
+    }
+  }
+  
+  /* Adjust the Font Awesome icon color transition */    
+  .navbar .fa-solid {
+    transition: color 0.5s; /* Add transition for color change */   
+  }
