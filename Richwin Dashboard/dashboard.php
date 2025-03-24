@@ -47,3 +47,28 @@
                 </div>
             </div>
         </div>
+        <!-- <div class="image col-lg-10 ms-auto p-0 overflow-hidden">
+            <img src="image/hole.jpg"alt="">
+        </div>-->
+
+
+        <div class="row"style="margin-left:250px;">
+             <div class="col-xl-3 col-md-6">
+              <div class="card bg-primary text-white mb-4">
+                <div class="card-body">View Room Request</div>
+                 <div class="card-footer d-flex align-items-center justify-content-between">
+                    <a class="small text-white stretched-link" href="RoomRequest_Table.php">View Details</a>
+                     <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-3 col-md-6">
+                     <div class="card bg-warning text-white mb-4">
+                        <div class="card-body">Delete Room Request</div>
+                         <div class="card-footer d-flex align-items-center justify-content-between">
+                            <a class="small text-white stretched-link" href="RoomRequest_Delete.php">View Details</a>
+                            <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                        </div>
+                    </div>
+                </div>
