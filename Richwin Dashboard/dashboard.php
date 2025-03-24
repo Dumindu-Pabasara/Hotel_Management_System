@@ -20,3 +20,30 @@
     <!--Stylesheet-->
     <link rel="stylesheet" href="css/style1.css">
 </head>
+<body>
+<div class="item"><a href="room.php"><i class="fa-solid fa-bed"></i>Room </a></div>
+    
+    <div class="side-bar"style="background:#1d1717;">
+        <header>            
+        <h1>Richwin Admin Panel</h1>
+    </header>
+        <div class="menu">
+            <div class="item"><a href="dashboard.php"><i class="fas fa-tachometer-alt"></i>Dashboard</a></div>
+            <div class="item"><a href="RoomRequest_Table.php"><i class="fa-solid fa-bed"></i>Room </a></div>
+            <div class="item"><a href="login.php"><i class="fa-solid fa-right-from-bracket"></i>Log Out</a></div>
+        </div>
+</div>
+       
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-10 ms-auto p-4 overflow-hidden">
+                   
+                    <div class="card border-1 shadow-sm mb-4"style="margin-left: 20px;">
+                        <div class="card-body">
+                        <h3 class="mb-2"style="color:#1d1717;">Dashboard</h3>
+                        </div>
+                </div>
+                </div>
+            </div>
+        </div>
