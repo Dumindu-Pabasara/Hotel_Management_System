@@ -113,3 +113,27 @@ section{
 .heading{
   font-size: 2.5em;
 }
+.sub-heading{
+  text-align: left;
+}
+
+.contactForm{
+  display: grid;
+  gap: 3em;
+}
+
+form{
+  width: 100%;
+  margin-top: 3em;
+}
+
+.detail{
+  color: var(--paraColor);
+  font-size: 1.1rem;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+
+.detail2{
+  text-align: left;
+}
