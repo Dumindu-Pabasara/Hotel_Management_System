@@ -55,3 +55,38 @@ $result=mysqli_query($con,$query);
                 </div>
             </div>
         </div>
+
+        <!--Feedback tabel-->
+        <div class="container-fluid">
+     <div class="row">
+        <div class="col-lg-10 ms-auto p-1 overflow-hidden">
+    <div class="container  p-5">
+    <table class="table ">
+        <thead>
+        <tr class="bg-dark text-white">
+                <th>Customer_Name</th>
+                <th>Email</th>
+                <th>Subject</th>
+            </tr>
+            <?php
+                while($row=mysqli_fetch_assoc($result)){
+                    ?>
+                    <tr>
+                <td><?php echo $row['name'];?></td>
+                <td><?php echo $row['email'];?></td>
+                <td><?php echo $row['subject'];?></td>
+                
+                </tr>
+
+                <?php
+                }
+                ?>
+            
+            
+
+            </thead>
+       
+    </table>
+</div>
+            </body>
+            </html>
