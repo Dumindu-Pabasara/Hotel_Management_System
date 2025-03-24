@@ -191,3 +191,26 @@ form{
   width: 90%;
   height: 90%;
 }
+.map iframe{
+  width: 100%;
+  height: 100%;
+}
+
+.contactMethod{
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+  text-align: left;
+}
+
+.method{
+  display: flex;
+  align-items: center;
+}
+
+.contactIcon{
+  font-size: 2rem;
+  color: gold;
+  width: 70px;
+ 
+}
