@@ -168,3 +168,26 @@ form{
   cursor: pointer;
   width: 100%;
 }
+.map-container{
+  position: relative;
+  width: 100%;
+  height: 500px;
+}
+
+.mapBg{
+  position: absolute;
+  background-color: var(--primaryColor);
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 90%;
+  border-radius: 20px;
+}
+
+.map{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 90%;
+  height: 90%;
+}
