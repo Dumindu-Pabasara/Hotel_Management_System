@@ -76,3 +76,45 @@ $result=mysqli_query($con,$query);
                 </div>
             </div>
         </div>
+        <!--Room booking tabel-->
+   <div class="container-fluid">
+     <div class="row">
+        <div class="col-lg-10 ms-auto p-1 overflow-hidden">
+    <div class="container  p-5">
+    <table class="table ">
+        <thead>
+            <tr class="bg-dark text-white">
+                <th>Name</th>
+                <th>Room-Type</th>
+                <th>Email</th>
+                <th>NIC</th>
+                <th>Check_IN</th>
+                <th>Check_OUT</th>
+                <th>Phone</th>
+            </tr>
+                <?php
+                while($row=mysqli_fetch_assoc($result)){
+                    ?>
+                    <tr>
+                <td><?php echo $row['Name'];?></td>
+                <td><?php echo $row['Room_type'];?></td>
+                <td><?php echo $row['Email'];?></td>
+                <td><?php echo $row['NIC'];?></td>
+                <td><?php echo $row['Check_in'];?></td>
+                <td><?php echo $row['Check_out'];?></td>
+                <td><?php echo $row['Phone'];?></td>
+                <td class='btn'>Delete</td>
+
+
+                <?php
+                }
+                ?>
+                
+
+            
+            
+
+            </thead>
+       
+    </table>
+</div>
