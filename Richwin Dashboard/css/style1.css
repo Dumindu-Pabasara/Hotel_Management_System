@@ -58,4 +58,14 @@ body{
     }
     .item i{
         margin-right: 15px;
+    }
+    .item a .dropdown{
+        position: absolute;
+        right: 0;
+        margin: 20px;
+        transition: 0.3s ease;
+    }
+    .item .sub-menu{
+        background: #b4b8b9;
+        display: none;
     }    
