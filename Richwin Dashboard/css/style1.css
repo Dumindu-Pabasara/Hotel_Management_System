@@ -68,4 +68,20 @@ body{
     .item .sub-menu{
         background: #b4b8b9;
         display: none;
-    }    
+    }
+    .menu-btn{
+        position: absolute;
+        color: #0076A3;
+        font-size: 35px;
+        cursor: pointer;
+        margin: 25px;
+    }
+    /*
+    .image img{
+        width: 95%;
+        height: 50vh;
+        margin-left: 40px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }*/    
