@@ -1,18 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    border: none;
-    outline: none;
-    box-sizing: border-box;
-    
-}
-body{
-    min-height: 100vh;
-    background: white;
-    color: #fff;
-    background-size: cover;
-    background-position: center;
-}
+
 .side-bar{
     background: #0076A3;
     width: 250px;
