@@ -71,20 +71,7 @@ $result=mysqli_query($con,$query);
                 <th>Check_OUT</th>
                 <th>Phone</th>
             </tr>
-                <?php
-                while($row=mysqli_fetch_assoc($result)){
-                    ?>
-                    <tr>
-                <td><?php echo $row['Name'];?></td>
-                <td><?php echo $row['Room_type'];?></td>
-                <td><?php echo $row['Email'];?></td>
-                <td><?php echo $row['NIC'];?></td>
-                <td><?php echo $row['Check_in'];?></td>
-                <td><?php echo $row['Check_out'];?></td>
-                <td><?php echo $row['Phone'];?></td>
-                </tr>
-
-                <?php
+                
                 }
                 ?>
             </thead>
