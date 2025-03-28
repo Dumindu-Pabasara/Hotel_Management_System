@@ -56,40 +56,7 @@ $result=mysqli_query($con,$query);
         </div>
 <!--Room booking tabel-->
         
-<div class="container-fluid">
-     <div class="row">
-        <div class="col-lg-10 ms-auto p-1 overflow-hidden">
-    <div class="container  p-5">
-    <table class="table ">
-        <thead>
-            <tr class="bg-dark text-white">
-                <th>Name</th>
-                <th>Room-Type</th>
-                <th>Email</th>
-                <th>NIC</th>
-                <th>Check_IN</th>
-                <th>Check_OUT</th>
-                <th>Phone</th>
-            </tr>
-                <?php
-                while($row=mysqli_fetch_assoc($result)){
-                    ?>
-                    <tr>
-                <td><?php echo $row['Name'];?></td>
-                <td><?php echo $row['Room_type'];?></td>
-                <td><?php echo $row['Email'];?></td>
-                <td><?php echo $row['NIC'];?></td>
-                <td><?php echo $row['Check_in'];?></td>
-                <td><?php echo $row['Check_out'];?></td>
-                <td><?php echo $row['Phone'];?></td>
-                </tr>
 
-                <?php
-                }
-                ?>
-            </thead>
-    </table>
-</div>
 <!--Java Script-->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
