@@ -116,17 +116,7 @@
 
    <!--Footer section-->
 
-<div class="container-fluid bg-dark text-light footer pt-3 mt-3" id="footer">
-  <div class="conteiner py-5">
-    <div class="row g-3">
-      <div class="col-lg-3 col-md-6">
-        <h4 class="text-white mb-3"> Company</h4>
-        <a href="" class="btn btn-link"> About Us</a>
-        <a href="" class="btn btn-link"> Contact Us</a>
-        <a href="" class="btn btn-link"> Privacy Policy</a>
-        <a href="" class="btn btn-link"> Terms & Condition</a>
-        <a href="" class="btn btn-link"> FAQ</a>
-      </div>
+
 
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-3">Contact</h4>
