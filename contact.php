@@ -128,7 +128,7 @@
         <a href="" class="btn btn-link"> FAQ</a>
       </div>
 
-      <div class="col-lg-3 col-md-6">
+      
         <h4 class="text-white mb-3">Contact</h4>
         <p class="mb-2"><i class="fa fa-map-marked-alt me-3"></i>Hadirawalana ,Ihalagama, Thuriliyagama 60570</p>
         <p class="mb-2"><i class="fa-solid fa-phone-volume me-3"></i>+94-37-226-3110</p> 
