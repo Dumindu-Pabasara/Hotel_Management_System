@@ -79,40 +79,7 @@
 
         </form>
 
-        <div class="map-container">
-            <div class="mapBg"></div>
-            <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1861.2317654021276!2d80.36906719006845!3d7.551048663738403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3379ad3b2579b%3A0x1a61ca90fe850a7e!2sRichwin%20Hotel!5e0!3m2!1sen!2slk!4v1702315832681!5m2!1sen!2slk" width="100%" height="600" style="border: 2px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" ></iframe>
-            </div>
-        </div>
-    </div>
-
-    <div class="contactMethod">
-        <div class="method">
-            <i class="fa-solid fa-location-dot contactIcon"></i>
-            <article class="text">
-                <h1 class="sub-heading">Location</h1>
-                <p class="detail">Hadirawalana ,Ihalagama, Thuriliyagama 60570</p>
-            </article>
-        </div>
-
-        <div class="method">
-            <i class="fa-solid fa-envelope contactIcon"></i>
-            <article class="text">
-                <h1 class="sub-heading">Email</h1>
-                <p class="detail">info.hotelrichwin@gmail.com</p>
-            </article>
-        </div>
-
-        <div class="method">
-            <i class="fa-solid fa-phone contactIcon"></i>
-            <article class="text">
-                <h1 class="sub-heading">Phone</h1>
-                <p class="detail">+94-37-226-3110</p>
-            </article>
-        </div>
-    </div>
-   </section>
+        
 
    <!--Footer section-->
 
