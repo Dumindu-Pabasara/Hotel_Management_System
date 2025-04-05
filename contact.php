@@ -65,7 +65,15 @@
         </div>
 </section>
 <!--contact form-->
-
+<section class="contact-form">
+        <div class="contactForm">
+        <form action="contact_conn.php" method="post">
+         <h1 class="sub-heading">Contact Us</h1>
+         <p class="detail detail2">Please write us your message to info.hotelrichwin@gmail.com</p>
+         <input type="text" class="input" placeholder="your name" name="name">
+         <input type="text" class="input" placeholder="your email" name ="mail">
+         <input type="text" class="input" placeholder="your Subject" name = "sub">
+         <input type="submit" class="input submit" value="Send Message">
          
         
 
