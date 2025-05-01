@@ -83,7 +83,14 @@
         </div>
 </section>
 
-   
+<div class="container p-5"id="our-room">
+    <div class="row g-4">
+       
+        <div class="col-lg-4 col-md-6 my-3">
+        <div class="card border-0 shadow" style="max-width: 350px;margin:auto;">
+        <img src="img/room1.jpg" class="card-img-top" alt="">
+    <div class="card-body">
+    <h5>Single</h5>
 
     <!--<h6 class="mb-4">₹ 1,435</h6>-->
     <div class="facilities mb-4">
