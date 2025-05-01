@@ -22,22 +22,27 @@
     <!--Stylesheet link-->
     <link rel="stylesheet" href="css/style.css">
     <!--script.js file link -->
-    
+    <script>
+       document.addEventListener("DOMContentLoaded", function() {
+      var animatedRoom = document.getElementById("animatedRoom");
+
+      window.addEventListener("scroll", function() {
+        var scrollPosition = window.scrollY;
+        var windowHeight = window.innerHeight;
+        var imagePosition = animatedRoom.offsetTop;
+
+        if (scrollPosition > imagePosition - windowHeight / 2) {
+          animatedRoom.style.opacity = 1;
+          animatedRoom.style.transform = "translateY(0)";
+        }
+      });
+    });
+    </script>
 </head>
 
 <body>
     <!--Main Navbar-->
-    <div class="container-fluid position-relative p-0">
-     <div class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0" id="navbar">
-     <a class="navbar-brand" href="#">
-                <img src="img/logo.png" alt="Logo" width="80" height="80" class="d-inline-block hotel align-bottem ">
-                Richwin Hotel
-            </a>
-
-      <button class="navbar-toggler" type="button" data-toggle="collapse"data-target="#navbarcollapse"
-      aria-controls="#navbarcollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="fa fa-bars"></span>
-      </button>
+    
 
       <div class="collapse navbar-collapse justify-content-end"id="navbarcollapse">
         <div class="navbar-nav justify-content-end ms-auto py-0">
