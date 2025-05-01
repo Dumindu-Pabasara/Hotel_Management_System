@@ -66,7 +66,10 @@
         </div>
         </div>
 
-        
+        <!--Section hero-->
+    <div class="hero-img"id="accomadationhero-img">
+<h1 class="accomadation-h1">Accomadation</h1>
+  </div>
           
    
 
