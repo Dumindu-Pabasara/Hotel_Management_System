@@ -54,17 +54,7 @@
         <span class="fa fa-bars"></span>
       </button>
 
-      <div class="collapse navbar-collapse justify-content-end"id="navbarcollapse">
-        <div class="navbar-nav justify-content-end ms-auto py-0">
-          <a href="home.php"class="nav-item nav-link font-weight-bold active">Home</a>
-          <a href="accommodation.php"class="nav-item nav-link font-weight-bold">Accommodation</a>
-          <a href="weddings.php"class="nav-item nav-link font-weight-bold">Weddings</a>
-          <a href="gallery.php"class="nav-item nav-link font-weight-bold">Gallery</a>
-          <a href="service.php"class="nav-item nav-link font-weight-bold">Other Service</a>
-          <a href="contact.php"class="nav-item nav-link font-weight-bold">Contact</a>
-        </div>
-        </div>
-        </div>
+      
 
         <!--Section hero-->
     <div class="hero-img"id="accomadationhero-img">
