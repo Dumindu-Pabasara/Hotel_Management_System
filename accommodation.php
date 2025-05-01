@@ -22,22 +22,7 @@
     <!--Stylesheet link-->
     <link rel="stylesheet" href="css/style.css">
     <!--script.js file link -->
-    <script>
-       document.addEventListener("DOMContentLoaded", function() {
-      var animatedRoom = document.getElementById("animatedRoom");
-
-      window.addEventListener("scroll", function() {
-        var scrollPosition = window.scrollY;
-        var windowHeight = window.innerHeight;
-        var imagePosition = animatedRoom.offsetTop;
-
-        if (scrollPosition > imagePosition - windowHeight / 2) {
-          animatedRoom.style.opacity = 1;
-          animatedRoom.style.transform = "translateY(0)";
-        }
-      });
-    });
-    </script>
+    
 </head>
 
 <body>
