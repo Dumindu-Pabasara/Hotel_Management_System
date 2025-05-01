@@ -75,13 +75,7 @@
 
 
    <!--room-->
-   <section id="section1">
-      <div class="container-gallery py-5">
-        <div class="text-center">
-          <h2 class="section-title">Richwin Hotel</h2>
-          <h1 class="mb-3"style="color:#0076A3;">Our Room</h1>
-        </div>
-</section>
+   
 
    <div class="container p-5"id="our-room">
     <div class="row g-4">
