@@ -22,15 +22,7 @@
 </head>
 <body>
     
-    <div class="side-bar">
-        <header>
-        <h1>Richwin Admin Panel</h1>
-    </header>
-        <div class="menu">
-            <div class="item"><a href="dashboard.php"><i class="fas fa-tachometer-alt"></i>Dashboard</a></div>
-            <div class="item"><a href="room.php"><i class="fa-solid fa-bed"></i>Room </a></div>
-            <div class="item"><a href="login.php"><i class="fa-solid fa-right-from-bracket"></i>Log Out</a></div>
-        </div>
+    
 
 
 
